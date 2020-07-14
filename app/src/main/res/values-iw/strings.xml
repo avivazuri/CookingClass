@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CookingClass</string>
+    <string name="about_us_str">קצת עלינו</string>
+    <string name="book_a_class_str">הזמנת סדנה</string>
+    <string name="date_str">תאריך:</string>
+    <string name="time_str">שעה:</string>
+    <string name="type_class">בחר את סוג הסדנה:</string>
+    <string name="italian_str">איטלקי</string>
+    <string name="japanese_str">יפני</string>
+    <string name="desserts_str">קינוחים</string>
+    <string name="next_str">סיום</string>
+    <string name="howmany_str">מספר המשתתפים</string>
+    <string name="back_str">חזור</string>
+    <string name="thanks_str">תודה לך על ההזמנה!</string>
+    <string name="age_str">גיל:</string>
+    <string name="name_str">שם:</string>
+    <string name="detailspeople_str">הזן את הפרטים של המשתתפים</string>
+    <string name="continue_str">המשך</string>
+    <string name="phonenum_str">נייד:</string>
+    <string name="parti_str">משתתף</string>
+    <string name="errordate_str">אנא בחר תאריך</string>
+    <string name="errornumpp_str">אנא ציין את מספר המשתתפים</string>
+    <string name="errortype_str">אנא בחר את סוג הסדנה</string>
+    <string name="priceItalian_str">סדנה איטלקית  - 280 ש\"ח לאדם</string>
+    <string name="priceJapanese_str">סדנה יפנית  - 320 ש\"ח לאדם</string>
+    <string name="priceDesserts_str">סדנת קינוחים - 245 ש\"ח לאדם</string>
+    <string name="info_str">בחרו את הסוג המועדף עליכם ותתכוננו לחוויה יוצאת דופן עם השפים המקצועיים ביותר!</string>
+    <string name="details_str">לפרטים נוספים צרו קשר עמנו.</string>
+    <string name="description_str">הסדנאות שלנו מתאימות למי שרוצה להכין אוכל במגוון סוגים איטלקי יפני ומגוון קינוחי גורמה.</string>
+    <string name="celebrate_str">חוגגים משהו?</string>
+    <string name="anniversary_str">יום נישואין</string>
+    <string name="Bday_str">יום הולדת</string>
+    <string name="bachelorette_str">מסיבת רווקות</string>
+    <string name="welcome_str">ברוכים הבאים ל-\"CookingClass\"</string>
+</resources>

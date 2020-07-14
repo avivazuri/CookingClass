@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CookingClass</string>
+    <string name="about_us_str">About Us</string>
+    <string name="book_a_class_str">Book A Class</string>
+    <string name="welcome_str">Welcome to \"CookingClass\"</string>
+    <string name="description_str">Our classes are suitable for those who want to learn how to prepare food in a variety of types - Italian, Japanese and a variety of gourmet desserts.</string>
+    <string name="info_str">Choose your favorite type and get ready for an exceptional experience with the most professional chefs!</string>
+    <string name="details_str">Contact us for more details.</string>
+    <string name="date_str">Date:</string>
+    <string name="time_str">Time:</string>
+    <string name="type_class">Choose the type of the class:</string>
+    <string name="italian_str">Italian</string>
+    <string name="japanese_str">Japanese</string>
+    <string name="desserts_str">Desserts</string>
+    <string name="howmany_str">Number of participants</string>
+    <string name="next_str">Done</string>
+    <string-array name="time_array">
+        <item>08:00</item>
+        <item>11:00</item>
+        <item>14:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+    </string-array>
+    <string name="back_str">Back</string>
+    <string name="thanks_str">Thank you for your booking!</string>
+    <string name="age_str">Age:</string>
+    <string name="name_str">Name:</string>
+    <string name="detailspeople_str">Please enter the details of the participants</string>
+    <string name="continue_str">Continue</string>
+    <string name="phonenum_str">Phone:</string>
+    <string name="parti_str">Participant</string>
+    <string name="errordate_str">Please choose a date</string>
+    <string name="errornumpp_str">Please specify the number of the participants</string>
+    <string name="errortype_str">Please choose the type the class</string>
+    <string name="priceItalian_str">Italian Class - 80$ per person</string>
+    <string name="priceJapanese_str">Japanese Class - 90$ per person</string>
+    <string name="priceDesserts_str">Desserts Class - 70$ per person</string>
+    <string name="celebrate_str">Celebrating?</string>
+    <string name="Bday_str">Birthday</string>
+    <string name="anniversary_str">Anniversary</string>
+    <string name="bachelorette_str">Bachelorette</string>
+</resources>
